@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea_Activities</string>
+    <string name="TextActivity">Ir a TextActivity</string>
+    <string name="ButtonActivity">Ir a ButtonActivity</string>
+    <string name="WidgetsActivity">Ir a WidgetsActivity</string>
+    <string name="LayoutsActivity">Ir a LayoutsActivity</string>
+    <string name="Volver">Volver al main</string>
+    <string name="txtvw">Este es un TextView</string>
+    <string name="plaintext">Este es un Plain Text</string>
+    <string name="button_click">Button cambio el texto</string>
+    <string name="image_button_click">ImageButton cambio el texto</string>
+    <string name="chip_click">Chip cambio el texto</string>
+    <string name="radio_button_click">RadioButton cambio el texto</string>
+</resources>
